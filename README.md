@@ -25,3 +25,6 @@ There are two Jupyter Notebooks:
       - The data was split into train and test data with a split ratio of 70/30
       - Linear, Random Forest, and Lasso regression were performed and their errors were compared
       - Random Forest model performed best as the R2 value was highest for this model
+## Project Deployment
+Using Flask, the project was then deployed. "Render" was used as the web service.
+The project can be accessed using link https://calgaryhousepricedeployment.onrender.com
